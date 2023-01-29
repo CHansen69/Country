@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#Courtney Hansen CIS261 Country
 
 def display_menu():
     print("COMMAND MENU")
